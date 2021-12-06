@@ -11,4 +11,4 @@
  2 unidades de Clavo de canela
  1 pizca de Canela en polvo
  ½ taza de Agua (120 mililitros)
-#### Referencias:
+#### Referencias: https://www.recetasgratis.net/receta-de-majarete-boricua-59548.html
