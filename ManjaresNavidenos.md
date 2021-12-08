@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.shopify.com/s/files/1/0217/9845/3348/files/majarete.png?v=1568310758" width="520" height="374"
+<img src="https://cdn.shopify.com/s/files/1/0217/9845/3348/files/majarete.png?v=1568310758" width="520" height="374" />
 
 # Manjares Navideños
 ## Pasteles de masa
