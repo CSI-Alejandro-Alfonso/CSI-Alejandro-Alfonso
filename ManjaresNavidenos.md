@@ -1,8 +1,12 @@
+<div align="center">
+
 <img src="https://cdn.shopify.com/s/files/1/0217/9845/3348/files/majarete.png?v=1568310758" width="520" height="374"
 
 # Manjares Navideños
 ## Pasteles de masa
-### Ingredientes
+</div>
+     
+ ### Ingredientes
 -  ***1*** lata de Leche de coco
 - ***1*** lata de Leche fresca o evaporada
 - Azúcar granulada a gusto
@@ -20,5 +24,10 @@
 3. Lleva toda esta mezcla a fuego medio, removiendo de forma constante con una cuchara de madera. Continua con la cocción del majarete puertorriqueño hasta que la mezcla tome consistencia y veas que comienza a espesar.
 4. A continuación, vierte la mezcla en un molde o en varios pequeños y espolvorea con canela por encima. Deja que la mezcla reposa hasta que tome temperatura ambiente y entonces reserva en la nevera para que termine de cuajar.
 5. Disfruta del delicioso majarete boricua y sírvelo como postre después de tu plato preferido. Y si quieres más recetas populares de Puerto Rico te recomendamos probar el famoso mofongo con plátanos verdes.
+  
+### Video: 
+- https://www.youtube.com/watch?v=gE2kl-pPF-I
 
-#### Referencias: https://www.recetasgratis.net/receta-de-majarete-boricua-59548.html
+<br>
+#### Referencias: 
+https://www.recetasgratis.net/receta-de-majarete-boricua-59548.html
